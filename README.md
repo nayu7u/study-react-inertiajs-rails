@@ -29,3 +29,5 @@ install node
 curl -o- https://fnm.vercel.app/install | bash
 fnm install 22
 ```
+
+![スクリーンショット 2025-03-19 015120](https://github.com/user-attachments/assets/753cfb70-56c2-491c-b6e2-3d5085542bc5)
