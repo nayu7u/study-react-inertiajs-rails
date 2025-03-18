@@ -22,3 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+install node
+```sh
+curl -o- https://fnm.vercel.app/install | bash
+fnm install 22
+```
